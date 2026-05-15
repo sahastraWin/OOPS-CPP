@@ -129,3 +129,28 @@ OOPs/
     ├── 21_Rule_of_Three
     ├── 22_Casting_Operators
     └── 23_Composition
+
+
+
+## ◈ Author
+
+**sahastraWin**
+
+> *Building understanding, one class at a time.*
+
+[![GitHub](https://img.shields.io/badge/GitHub-sahastraWin-181717?style=flat-square&logo=github)](https://github.com/sahastraWin)
+
+
+<div align="center">
+
+<br/>
+
+*"Complexity is the enemy of reliability. OOP, done right, tames both."*
+
+<br/>
+
+**⭐ Star this repo if it helped you think in objects.**
+
+<br/>
+
+</div>
