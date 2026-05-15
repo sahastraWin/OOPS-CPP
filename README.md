@@ -450,7 +450,6 @@ If you found this repository helpful:
 - 📢 **Share** with your peers
 
 ---
-
 ## 👨‍💻 Author
 
 <div align="center">
@@ -461,7 +460,7 @@ If you found this repository helpful:
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=500&lines=Building+one+class+at+a+time+🏗️;Writing+code+people+can+read+📖;OOP+is+not+just+syntax+—+it's+thinking+🧠" alt="author tagline"/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-your--username-181717?style=for-the-badge&logo=github)](https://github.com/your-username)
+[![GitHub](https://img.shields.io/badge/GitHub-Sahastrajeet--Hardaha-181717?style=for-the-badge&logo=github)](https://github.com/your-username)
 
 </div>
 
@@ -491,6 +490,6 @@ Every file contributes toward building a stronger foundation in **software engin
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=800&color=2ECC71&center=true&vCenter=true&width=600&lines=💻+Happy+Coding!;⭐+Keep+Learning+•+Keep+Building;🚀+Keep+Growing!" alt="footer"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=800&color=2ECC71&center=true&vCenter=true&width=600&lines=%F0%9F%92%BB+Happy+Coding!;%E2%AD%90+Keep+Learning+%E2%80%A2+Keep+Building;%F0%9F%9A%80+Keep+Growing!" alt="footer"/>
 
 </div>
