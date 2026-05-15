@@ -2,96 +2,80 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2800&pause=900&color=00C2FF&center=true&vCenter=true&width=960&lines=🚀+Complete+C%2B%2B+OOP+Journey;From+Fundamentals+to+Advanced+Design;Abstraction+%7C+Encapsulation+%7C+Inheritance;Polymorphism+%7C+Templates+%7C+STL;Clean+Code+%7C+Modern+C%2B%2B+17%2F20" alt="Typing SVG"/>
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="250"/>
 
-<br/>
+# 🚀 Complete C++ OOP Journey
 
-<img src="https://img.shields.io/badge/C%2B%2B-17%20%7C%2020-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-<img src="https://img.shields.io/badge/OOP-Concepts-FF6F00?style=for-the-badge&logo=buffer&logoColor=white"/>
-<img src="https://img.shields.io/badge/DSA-Integrated-2ECC71?style=for-the-badge&logo=leetcode&logoColor=white"/>
-<img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Topics-23+-blueviolet?style=for-the-badge"/>
+### *From Fundamentals to Advanced Object-Oriented Design*
+
+<img src="https://img.shields.io/badge/C%2B%2B-17%20%7C%2020-blue?style=for-the-badge&logo=c%2B%2B"/>
+<img src="https://img.shields.io/badge/OOP-Concepts-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DSA-Integrated-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Status-Active-green?style=for-the-badge"/>
+<img src="https://img.shields.io/github/repo-size/your-username/your-repo?style=for-the-badge"/>
+<img src="https://img.shields.io/github/stars/your-username/your-repo?style=for-the-badge"/>
+
+<br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&color=00C2FF&center=true&vCenter=true&width=900&lines=Object-Oriented+Programming+in+C%2B%2B;Abstraction+%7C+Encapsulation+%7C+Inheritance;Polymorphism+%7C+Templates+%7C+STL;From+Beginner+to+Advanced+Level;Clean+Code+%7C+Modern+C%2B%2B+Practices"/>
 
 </div>
 
 ---
 
-## 📖 About This Repository
+# 📖 About This Repository
 
-<img align="right" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="340"/>
+This repository is a **complete roadmap to mastering Object-Oriented Programming in C++**.  
+It contains:
 
-This repository is a **complete roadmap to mastering Object-Oriented Programming in C++**.
+- 📚 Structured topic-wise learning
+- 🧠 Core OOP principles
+- ⚡ Modern C++ concepts
+- 🛠️ Real implementations
+- 🎓 College practicals & assignments
+- 🔥 Advanced memory management
+- 🚀 Industry-level coding practices
 
-It contains structured learning paths across:
-
-- 📚 **Topic-wise structured modules** — 23 curated lessons
-- 🧠 **Core OOP principles** — deeply explained with examples
-- ⚡ **Modern C++ concepts** — C++11/14/17/20 coverage
-- 🛠️ **Real implementations** — not just theory
-- 🎓 **College practicals & assignments** — unit-wise organized
-- 🔥 **Advanced memory management** — smart pointers, RAII
-- 🚀 **Industry-level coding practices** — clean, maintainable code
-
-Whether you are:
+Whether you're:
 - 👨‍🎓 A student preparing for exams
 - 💻 A beginner learning OOP
 - 🧠 A DSA enthusiast
 - 🚀 An aspiring software engineer
 
-This repository is designed to give you a **rock-solid conceptual foundation** in C++ and OOP.
-
-<br clear="right"/>
+This repository is designed to help you build a **strong conceptual foundation** in C++ and OOP.
 
 ---
 
-## 🎯 Core Objectives
+# 🎯 Core Objectives
 
-<div align="center">
-
-| ✅ Objective | Description |
-|---|---|
-| 🔍 **Deep Understanding** | Understand OOP beyond textbook definitions |
-| 🧹 **Clean Code** | Write readable, reusable, maintainable code |
-| 🛡️ **Memory Safety** | Learn RAII, smart pointers, and safe patterns |
-| 🧬 **Inheritance Mastery** | Navigate single, multiple, virtual inheritance |
-| 🏗️ **Real-World Design** | Understand how classes model real systems |
-| ⚡ **Modern C++** | Leverage C++11/17/20 features confidently |
-| 🧠 **Coding Logic** | Sharpen problem-solving through OOP lens |
-
-</div>
+✅ Understand Object-Oriented Programming deeply  
+✅ Write clean and reusable code  
+✅ Learn memory-safe programming  
+✅ Master inheritance and polymorphism  
+✅ Understand real-world class design  
+✅ Explore modern C++ features  
+✅ Build strong coding logic and implementation skills  
 
 ---
 
-## 🧠 OOP Pillars
+# 🧠 OOP Concepts Covered
 
 <div align="center">
-
-```
-┌─────────────────────────────────────────────────────────────────┐
-│                    THE 4 PILLARS OF OOP                         │
-├───────────────┬───────────────┬───────────────┬─────────────────┤
-│ 🧩 Abstraction│ 🔒Encapsulation│ 🧬 Inheritance │🎭 Polymorphism  │
-│               │               │               │                 │
-│ Hide details, │ Protect data  │ Reuse & extend│ One interface,  │
-│ expose intent │ via specifiers│ existing class│ many behaviors  │
-└───────────────┴───────────────┴───────────────┴─────────────────┘
-         ↓               ↓               ↓               ↓
-   🧠 Modularity    📦 Composition   🔁 Dynamic Binding   ✨ SOLID
-```
-
-</div>
 
 | Pillar | Description |
-|--------|-------------|
-| 🧩 **Abstraction** | Hiding implementation details, exposing only what matters |
-| 🔒 **Encapsulation** | Protecting data integrity using access specifiers |
-| 🧬 **Inheritance** | Reusing and extending existing class hierarchies |
-| 🎭 **Polymorphism** | Same interface resolving to different behaviors at runtime |
-| 🧠 **Modularity** | Dividing complex systems into manageable components |
-| 🔁 **Dynamic Binding** | Runtime method resolution via virtual functions |
-| 📦 **Composition** | Building complex systems from simpler object relationships |
+|---|---|
+| 🧩 **Abstraction** | Hiding implementation details and exposing only functionality |
+| 🔒 **Encapsulation** | Protecting data using access specifiers |
+| 🧬 **Inheritance** | Reusing and extending existing classes |
+| 🎭 **Polymorphism** | Same interface with multiple behaviors |
+| 🧠 **Modularity** | Dividing code into manageable components |
+| 🔁 **Dynamic Binding** | Runtime method resolution using virtual functions |
+| 📦 **Composition** | Building complex systems using objects |
+
+</div>
 
 ---
+
 
 ## ✨ Repository Architecture
 
