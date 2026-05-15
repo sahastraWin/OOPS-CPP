@@ -458,9 +458,9 @@ If you found this repository helpful:
 
 🚀 *Passionate Developer · DSA Enthusiast · OOP Explorer*
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=500&lines=Building+one+class+at+a+time+🏗️;Writing+code+people+can+read+📖;OOP+is+not+just+syntax+—+it's+thinking+🧠" alt="author tagline"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=500&lines=Building+one+class+at+a+time+%F0%9F%8F%97%EF%B8%8F;Writing+code+people+can+read+%F0%9F%93%96;OOP+is+not+just+syntax+%E2%80%94+it's+thinking+%F0%9F%A7%A0" alt="author tagline"/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-Sahastrajeet--Hardaha-181717?style=for-the-badge&logo=github)](https://github.com/your-username)
+[![GitHub](https://img.shields.io/badge/GitHub-Sahastrajeet--Hardaha-181717?style=for-the-badge&logo=github)](https://github.com/Sahastrajeet-Hardaha)
 
 </div>
 
