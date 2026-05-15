@@ -151,7 +151,11 @@ public:
 ✔️ Object Lifecycle
 
 ⚡ Constructors & Destructors
-<img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="400"/>
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Animation.gif" width="400"/>
+
+</div>
 Covered:
 Default Constructor
 Parameterized Constructor
@@ -159,8 +163,13 @@ Copy Constructor
 Constructor Overloading
 Destructor Working
 Deep vs Shallow Copy
+
 🎭 Polymorphism
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="420"/>
+<div align="center">
+
+<img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="420"/>
+
+</div>
 Includes:
 Function Overloading
 Operator Overloading
@@ -168,8 +177,13 @@ Function Overriding
 Virtual Functions
 Pure Virtual Functions
 Runtime Polymorphism
+
 🧬 Inheritance
-<img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="400"/>
+<div align="center">
+
+<img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="400"/>
+
+</div>
 Types Covered:
 Single Inheritance
 Multiple Inheritance
